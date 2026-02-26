@@ -2,7 +2,6 @@
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
 <docinfo>
 <latex-image-preamble>  
-      \usepackage{overpic,pict2e}
   \usepackage{tikz}
   \usetikzlibrary{arrows, arrows.meta, decorations.markings}
     </latex-image-preamble>
